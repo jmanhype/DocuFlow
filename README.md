@@ -1,5 +1,3 @@
-Thank you for providing the current README content. I'll update it to include information about the RouterRetriever and other aspects of your project. Here's the updated README:
-
 # DocuFlow Service Colony
 
 DocuFlowServiceColony is an advanced service colony framework designed for distributed, autonomous services working together to process documents, augment datasets, perform strategic reasoning, and retrieve relevant data. The system is self-adaptive, highly modular, and incorporates state-of-the-art machine learning techniques for efficient information retrieval and routing.
